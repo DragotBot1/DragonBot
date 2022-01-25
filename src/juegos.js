@@ -16,7 +16,7 @@ Conoce que tan racista eres
 
 _*En futuras versiones colocare mas juegos :)*_
      
-_*by shanduy*_
+𝙗𝙮 𝘿𝙧𝙖𝙜𝙤𝙣
 `
 
 }
