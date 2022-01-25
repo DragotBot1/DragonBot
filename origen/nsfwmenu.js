@@ -13,7 +13,7 @@ ${prefix}yaoi
 
 "El yaoi es pa las chicas no solo los hombre se divierten"
 
-by shanduy`
+𝙗𝙮 𝘿𝙧𝙖𝙜𝙤𝙣`
 
 }
 
