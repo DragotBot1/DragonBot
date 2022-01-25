@@ -11,7 +11,7 @@ La toca 7w7
 
 _*Ojito escribe tal como esta*_
 
-by shanduy`
+𝙗𝙮 𝘿𝙧𝙖𝙜𝙤𝙣`
 
 }
 
