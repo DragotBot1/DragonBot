@@ -1,5 +1,5 @@
 {
-  "name": "ShanBot",
+  "name": "DragonBot",
   "version": "4.6",
   "description": "Only termux",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Shan",
+  "author": "Dragon",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^v4.0.0",
@@ -38,10 +38,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shanduy/ShanBot.git"
+    "url": "git+https://github.com/DragotBot1/DragonBot"
   },
   "bugs": {
-    "url": "https://github.com/shanduy/ShanBot.git"
+    "url": "https://github.com/DragotBot1/DragonBot"
   },
-  "homepage": "https://github.com/shanduy/ShanBot#readme"
+  "homepage": "https://github.com/DragotBot1/DragonBot#readme"
 }
