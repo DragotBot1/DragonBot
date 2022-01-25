@@ -1,10 +1,10 @@
 const version = (prefix, pushname) => {
     return `
-*ShanBot by shanduy*
+*DragonBot by Dragón*
 
-*Actualizado:* 24 de Enero del 2022
+*Actualizado:* 25 de Enero del 2022
 *Versión actual:* 4.7
-*Ofrecida por:* shanduy™
+*Ofrecida por:* Dragón™
 
 
 *INFORME*
@@ -15,12 +15,7 @@ Cambiare la apikey pasando un mes o si veo muchos atercados o robos
 Si vez a alguien que robo mi bot comunicate conmigo con el comando *creador
 
 
-*COMO ACTUALIZAR EL BOT*
-
-https://cutt.ly/dWp5uqE
-
-
-_*by shanduy*_
+𝙗𝙮 𝘿𝙧𝙖𝙜𝙤𝙣
 `
 
 }
